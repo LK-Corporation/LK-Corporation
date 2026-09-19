@@ -25,7 +25,7 @@ nada es porque los tengo en privado; los iré publicando más adelante.
 
 Ahora mismo le estoy metiendo mucha caña a IRIS y al uso de Claude Code y VS Code.
 
-De día: Healthcare IT Interoperability Specialist en Dedalus — InterSystems IRIS /
+Healthcare IT Interoperability Specialist en Dedalus — InterSystems IRIS /
 Ensemble, Rhapsody y Mirth Connect, HL7 v2 y FHIR, en hospitales de toda España.
 
 Para cualquier cosa podéis escribirme, por aquí o por
