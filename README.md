@@ -9,7 +9,7 @@ Right now I'm going deep into InterSystems IRIS, and into building with Claude C
 and VS Code.
 
 By day: Healthcare IT Interoperability Specialist at Dedalus — InterSystems IRIS /
-Ensemble, Rhapsody and Mirth Connect, HL7 v2 and FHIR, in hospitals across Spain.
+Ensemble, Rhapsody and Mirth Connect, HL7 v2 and FHIR.
 
 If you work on any of this, write to me — here or on
 [LinkedIn](https://www.linkedin.com/in/victor-brusel-laso-5b617674).
@@ -26,7 +26,7 @@ nada es porque los tengo en privado; los iré publicando más adelante.
 Ahora mismo le estoy metiendo mucha caña a IRIS y al uso de Claude Code y VS Code.
 
 Healthcare IT Interoperability Specialist en Dedalus — InterSystems IRIS /
-Ensemble, Rhapsody y Mirth Connect, HL7 v2 y FHIR, en hospitales de toda España.
+Ensemble, Rhapsody y Mirth Connect, HL7 v2 y FHIR.
 
 Para cualquier cosa podéis escribirme, por aquí o por
 [LinkedIn](https://www.linkedin.com/in/victor-brusel-laso-5b617674).
